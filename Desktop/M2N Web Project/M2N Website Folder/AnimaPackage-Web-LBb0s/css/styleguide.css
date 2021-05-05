@@ -1,0 +1,14 @@
+:root {
+  --gunsmoke: #82888e;
+
+  --font-size-m: 24px;
+
+  --font-family-dm_sans: "DM Sans", Helvetica;
+}
+.dmsans-bold-gunsmoke-24px {
+  color: var(--gunsmoke);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
